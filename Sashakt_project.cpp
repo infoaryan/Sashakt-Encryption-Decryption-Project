@@ -10,8 +10,6 @@ using namespace std;
 
 //Developed in C++14 environment
 
-//Developed by : Dechan Dolker (195052) Aryan Verma(195011) Aviral(195023)  
-
 //OBJECTIVE :  This is a encryption and decryption software designed using c++,
 //capable of encrypting and decrypting single lines and also huge text. It works on
 //substitution Cipher techniques - Caesar Cipher algorithm. It can directly take the 
